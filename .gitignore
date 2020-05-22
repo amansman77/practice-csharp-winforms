@@ -1,3 +1,6 @@
+## Language
+
+### Java
 HELP.md
 .gradle
 bin/
@@ -6,6 +9,17 @@ build/
 !**/src/main/**
 !**/src/test/**
 src/main/generated
+
+### C#
+
+#### Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+
+## IDE
 
 ### STS ###
 .apt_generated
